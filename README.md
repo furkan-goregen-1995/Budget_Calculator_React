@@ -4,4 +4,4 @@ The budget app is one of my first projects I've created with React. A basic Reac
 
 # Demo
 
-<a href="https://furkan-goregen-1995.github.io/Budget_Calculator_React/">Live review</a>
+<a href="https://furkan-goregen-1995.github.io/Budget_Calculator_React/">Live preview</a>
